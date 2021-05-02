@@ -44,3 +44,8 @@ button{
 button:hover{
     cursor: pointer;
 }
+
+.name {
+    display: flex;
+    flex-direction: row;
+}
